@@ -1,9 +1,9 @@
-import './App.css';
+//import './styles/tailwind.css';
 
 function App() {
   return (
     <div>
-     <h1>Linker landing page</h1>
+      <h1 class="text-2xl flex justify-center">Main content</h1>
     </div>
   );
 }
