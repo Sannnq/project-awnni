@@ -625,6 +625,9 @@ video {
 .hidden {
   display: none;
 }
+.h-12 {
+  height: 3rem;
+}
 .h-4 {
   height: 1rem;
 }
@@ -1243,8 +1246,8 @@ video {
     margin-left: 4rem;
   }
 
-  .sm\:h-9 {
-    height: 2.25rem;
+  .sm\:h-12 {
+    height: 3rem;
   }
 
   .sm\:px-4 {
@@ -1387,6 +1390,10 @@ video {
 
   .lg\:mb-0 {
     margin-bottom: 0px;
+  }
+
+  .lg\:ml-32 {
+    margin-left: 8rem;
   }
 
   .lg\:mt-0 {
