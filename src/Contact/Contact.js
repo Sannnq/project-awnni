@@ -19,7 +19,7 @@ const Contact = () => {
     }
 
 
-    return <section id='contact' class="bg-white dark:bg-gray-900 md:pt-20">
+    return <section id='contact' class="bg-gray-900 md:pt-20">
         <div class="bg-glass py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
             <h2 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight text-center mb-6" style={{ color: "hsl(218, 81%, 95%)" }}>Contactez-nous</h2>
             <p class="mb-8 lg:mb-16 md:pl-12 md:pr-12 text-center font-medium text-gray-500 dark:text-gray-400 sm:text-xl">Vous souhaitez en savoir d'avantage sur awnni et ses services ? Laissez-nous un message.</p>

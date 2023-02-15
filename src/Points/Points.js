@@ -1,6 +1,6 @@
 const Points=()=>{
 
-return<section class="bg-gray-50 dark:bg-gray-800 pt-20 pb-20">
+return<section class="bg-gray-800 pt-20 pb-20">
     <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
         <div class="max-w-screen-md mb-8 lg:mb-16">
         <p class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-10" style={{color: "hsl(218, 81%, 95%)"}}>Services disponibles,</p>

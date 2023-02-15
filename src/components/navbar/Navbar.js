@@ -18,7 +18,7 @@ const Navbar = () => {
   };
 
 
-  return <><nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 dark:bg-gray-900 ">
+  return <><nav className=" px-2 sm:px-4 py-2.5 bg-gray-900 ">
     <div className="container flex flex-wrap items-center justify-between mx-auto">
       <a href="/" className="flex items-center">
         <img src="logo.png" className="h-12 mr-3 sm:h-12 lg:ml-32" alt="Flowbite Logo" />
