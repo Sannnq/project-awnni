@@ -2,7 +2,7 @@ import './Mission.css'
 
 const Mission=()=>{
 
-return<div className="bg-[#111827]">
+return<div id='mission' className="bg-[#111827]">
 
 <div class="container  mx-auto">
 

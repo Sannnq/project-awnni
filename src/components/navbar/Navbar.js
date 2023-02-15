@@ -9,6 +9,14 @@ const Navbar = () => {
     console.log("clicked");
   };
 
+  const toMission = () => {
+    const element = document.getElementById('mission');
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+    }
+    console.log("clicked");
+  };
+
 
   return <><nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 dark:bg-gray-900 ">
     <div className="container flex flex-wrap items-center justify-between mx-auto">
@@ -29,7 +37,7 @@ const Navbar = () => {
             <a href="/" className="block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white" aria-current="page">Acceuil</a>
           </li>
           <li>
-            <a href="/" className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">A propos de nous</a>
+            <button onClick={toMission} className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">A propos de nous</button>
           </li>
           
         </ul>
