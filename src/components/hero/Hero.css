@@ -37,5 +37,5 @@
   .bg-glass {
     /*background-color: hsla(0, 0%, 100%, 0.9);*/
     background-color: transparent;
-    backdrop-filter: saturate(100%) blur(2px);
+    backdrop-filter: saturate(100%) blur(0px);
   }
