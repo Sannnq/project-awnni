@@ -21,7 +21,7 @@ return<>
                                 </p>
                             </li>
                             <li class="rounded-2xl w-42 p-8 h-42 m-1 bg-white drop-shadow-none shadow-sm text-center grid content-center md:h-48 lg:m-0 lg:w-4/4 lg:relative lg:hover:-translate-y-5  lg:transition-all hover:bg-[#2563EB] lg:hover:text-white 2xl:m-0 2xl:w-full 2xl:relative 2xl:h-72 2xl:hover:-translate-y-5  2xl:transition-all 2xl:hover:bg-violet-maadana 2xl:hover:text-white">
-                                <p href="/" class="text-center"><span class="opacity-80 lg:text-xl font-medium">Meilleure communication client à expert</span>
+                                <p href="/" class="text-center"><span class="opacity-80 lg:text-xl font-medium">Meilleure relation client/expert</span>
                                    
                                 </p>
                             </li>
