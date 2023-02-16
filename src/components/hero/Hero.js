@@ -18,9 +18,9 @@ return<>
           <div className="mb-12 lg:mb-0 relative">
             <div id="radius-shape-1" className="absolute rounded-full shadow-lg"></div>
             <div id="radius-shape-2" className="absolute shadow-lg"></div>
-            <div className=" rounded-lg bg-glass px-6 py-12 md:px-0 -ml-20 sm:ml-16 w-[150%] lg:w-[200%] lg:m-0">
+            <div className=" rounded-lg bg-glass  px-6 py-12 md:px-0 -ml-10 md:ml-40 sm:ml-16 w-[150%] lg:w-[200%] lg:m-0">
              
-            <img src='mobile.png' alt=''/>
+            <img src='iphone.png' alt=''/>
 
             </div>
           </div>

@@ -12,7 +12,7 @@ return<div id='mission' className="bg-[#111827]">
   <div class="flex flex-wrap">
     <div class="grow-0 shrink-0 basis-auto w-full lg:w-5/12 mb-12 lg:mb-0">
       <div class="flex lg:py-12">
-        <img src="mission.png" class="w-full rounded-lg"
+        <img src="imac.png" class="w-80 ml-10 overflow-hidden sm:w-full md:w-full rounded-lg"
           id="cta-img-nml-50" style={{zIndex:"10"}} alt="" />
       </div>
     </div>
