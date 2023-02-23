@@ -39,13 +39,13 @@ const Navbar = () => {
           <li>
             <button onClick={toMission} className="block py-2 pl-3 pr-4  rounded md:p-0 md:hover:text-white text-gray-400 hover:bg-gray-700 hover:text-white md:hover:bg-transparent border-gray-700">A propos de nous</button>
           </li>
-          
+
         </ul>
       </div>
     </div>
   </nav>
-  
-  
+
+
   </>
 }
 export default Navbar;
